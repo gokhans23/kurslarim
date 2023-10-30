@@ -1,0 +1,39 @@
+{
+    "courses":[
+        {
+            "id" :1,
+
+            "content":"Muhteşem Angular Kursu Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "title":"Angular Kursu",
+            "price":69 
+        },
+        {
+            "id" :2,
+
+            "content":"Muhteşem Bootstrap Kursu Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "title":"Bootstrap Kursu",
+            "price":69 
+        },
+        {
+            "id" :3,
+
+            "content":"Muhteşem C Programlama Kursu Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "title":"C Programlama Kursu",
+            "price":69 
+        },
+        {
+            "id" :4,
+
+            "content":"Muhteşem Frontend Kursu Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "title":"Frontend Kursu",
+            "price":69 
+        },
+        {
+            "id" :5,
+
+            "content":"Muhteşem Html Kursu Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "title":"Html Kursu",
+            "price":0 
+        }
+    ]
+}
